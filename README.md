@@ -25,7 +25,8 @@ Buffbros is a fitness tracking app that turns healthy habits into a game. Users 
 ### Project Planning
 - Finalize project idea and features  
 - Select tech stack  
-- Design basic system architecture  
+- Design basic system architecture
+- https://www.figma.com/design/Xgm81jeCAZyoirT478HzlF/Test-Project?node-id=0-1&t=PIawT7teeTNxJJ2X-1
 
 ### Frontend
 - Set up React Native with Expo  
